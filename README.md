@@ -9,45 +9,31 @@
 | **Window Manager**     | Hyprland                       | AeroSpace                    |  
 | **Compositor**         | Wayland                        | Built-in (Quartz)              |  
 | **Kernel**             | Zen                            | Darwin                     | 
-| **Shell**              | Nushell                        | Zsh                        |  
+| **Shell**              | Nushell & Zsh                        | Zsh                        |  
 | **Prompt**             | Starship                       | Starship                    |  
 | **Editor**             | Neovim                         | Neovim           |  
-| **Launcher**           | Rofi                           | Raycast or Spotlight          |  
-| **Bar**                | Hyprpanel                      | Simple-Bar                    |  
+| **Launcher**           | Rofi                           | Raycast           |  
+| **Bar**                | Waybar                      | Simple-Bar                    |  
 | **Terminal Emulator**  | Ghostty                        | Ghostty                     |  
-| **Package Manager**    | Pacman, AUR (Yay), Flatpak     | Homebrew                       |  
+| **Package Manager**    | Nixpkgs     | Homebrew                       |  
 | **Fonts**              | Nerd Font 0xProto              | Nerd Font 0xProto           |  
-| **Browser**            | Zen Browser + Mtab + Vimium   | Arch Browser + Vimium          |  
+| **Browser**            | Arc browser   | Arc browser          |  
 | **Theme**              | Tokyo Night                    | Tokyo Night                 |  
-| **Fetch**              | Fastfetch + Nitch              | Fastfetch                    |
-| **File Manager**       | Yazi + Thunar + Oil.nvim      | Yazi + Oil.nvim + finder               |
+| **Fetch**              | Fastfetch              | Fastfetch                    |
+| **File Manager**       | Yazi + Oil.nvim + Thunar     | Yazi + Oil.nvim + Finder               |
 
 ---
 
-## Useful CLI Tools
-
-| Tool        | Description                                |
-|-------------|--------------------------------------------|
-| `ripgrep`   | Fast, recursive search utility for code and text. |
-| `fzf`       | Fuzzy finder for files and other data.     |
-| `bat`       | Cat alternative with syntax highlighting.  |
-| `starship`  | Cross-shell prompt for minimalists.        | 
-| `dust`      | Alternative to `du` for disk usage.        |
-| `tldr`      | Simplified man pages.                      |
-| `zoxide`    | Smarter `cd` command.                      |
-
----
-
-[**COMPUTER SPECS**](https://pcpartpicker.com/list/ygQKGJ)
+[**PCPartPicker build**](https://pcpartpicker.com/list/ygQKGJ)
 
 
 ## Peripherals
 
 | **Device**      | **Model**                     |
 |----------------|------------------------------|
-| **Keyboard**   | Corne (Scratch), Highground 60% |
+| **Keyboard**   | Corne (from scratch), Highground 60% |
 | **Mouse**      | Logitech G Pro X Superlight  |
-| **Monitor**    | ASUS TUF 27" 1080p 240hz |
+| **Monitor**    | ASUS TUF 27" 1080p@240hz, Dell 24" 1080p@60hz |
 | **Speakers**   |      Edifier MR4         | 
 |  **Desk-Desk** |      Made in School      |
 |  **"Symbols"** |        Traditional Mandarin (Taiwan)         |
@@ -57,5 +43,6 @@
 ---
 
 ### Getting Started  
-1. Browse through the configurations in their respective directories:  
-2. Take whatever you want!
+- Browse configs and take what you need!
+
+
