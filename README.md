@@ -1,9 +1,7 @@
 # Dotfiles ✨ - [nvim specific](https://github.com/wyattgill9/nvim)
-A collection of my personal **PRODUCTIVE** and **FUN** configurations for both my **Arch** Desktop and **MacOS** Laptop.  
-Feel free to explore, take inspiration, or change parts of these files to your own setup!  
-
 ---
 ![rice](https://github.com/user-attachments/assets/11da9964-abb3-4ce2-947c-97df762cf48f)
+*I am on Nix now, I moved from arch a while back*
 
 ## Configurations:  
 | **Component**         | **NixOS**                       | **MacOS - M4**              |  
